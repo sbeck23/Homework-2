@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Pathtomyfriendshouse",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.066169322517922, 35.911495062781214 ], [ -79.066089453332907, 35.911002807804174 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.06609108331628, 35.9110011778208 ], [ -79.063789546801104, 35.911200035791659 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.063786286834372, 35.911196775824926 ], [ -79.062723537678636, 35.909397274186993 ] ] ] } }
+]
+}
